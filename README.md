@@ -1,5 +1,5 @@
 # Bookstore-Management
-Demo: bookmanagement.infinityfreeapp.com/  
+Demo: http://bookmanagement.infinityfreeapp.com/  
 This app is built to manage book information. Users can peform CRUD operation on the dashboard.  
 Technology used - *PHP, MySQL, Bootstrap, HTML* 
   
